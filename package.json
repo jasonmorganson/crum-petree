@@ -1,0 +1,17 @@
+{
+  "name": "crum-petree",
+  "version": "1.0.0",
+  "description": "PLEASE STOP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Jason Morganson",
+  "license": "MIT",
+  "dependencies": {
+    "mailparser": "0.6.1",
+    "nodemailer": "2.5.0",
+    "nodemailer-mandrill-transport": "1.1.0",
+    "smtp-server": "1.13.1"
+  }
+}
